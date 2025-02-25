@@ -18,7 +18,7 @@ Frontend: HTML, CSS, JavaScript
 
 Backend: Django (Python)
 
-Database: SQLite (or any database of your choice)
+Database: SQLite
 
 Authentication: Django’s built-in authentication system
 
