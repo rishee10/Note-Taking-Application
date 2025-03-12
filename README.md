@@ -1,4 +1,4 @@
-# Note-Taking-Application
+# Notionery: Note-Taking-Application
 
 This Django-based application allows users to register, log in, and save their notes with topics. It includes full CRUD (Create, Read, Update, Delete) operations on the notes, allowing users to manage their notes effectively and securely.
 
